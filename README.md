@@ -1,5 +1,5 @@
 # UnsupervisedLearning
-LDA, NMF, HC, kNN, GMM, AM, KG
+LDA, NMF, HC, kNN, GMM, AM, KG, PAMI
 
 ### Topic Modelling: LDA, NMF;
 ### Clustering: Hierarchical Clustering, kNN, GMM;
